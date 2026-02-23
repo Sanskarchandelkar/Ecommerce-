@@ -1,0 +1,1 @@
+Create a public/index.html with a root div when bootstrapping this frontend using Create React App or Vite.
